@@ -1,2 +1,5 @@
-keshav is god
-wjwejejk
+first file created 
+using git commands
+vi keshav.txt
+
+
